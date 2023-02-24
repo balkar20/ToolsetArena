@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{CF2CD9BE-14DB-49DD-8402-EA5677A98C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DA3B4755-F86F-42D7-A84F-70B8A206CABC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "slnfolder", "slnfolder", "{ABFF2F3F-1A92-423B-82E6-095B8335F872}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "newslnfolder", "newslnfolder", "{F691EC9D-C4DB-471F-BCDC-13F53C785B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folderproj", "Folderproj\Folderproj.csproj", "{8F71EF01-9F44-46C4-84E2-E053AF10D1B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2CD9BE-14DB-49DD-8402-EA5677A98C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2CD9BE-14DB-49DD-8402-EA5677A98C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2CD9BE-14DB-49DD-8402-EA5677A98C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2CD9BE-14DB-49DD-8402-EA5677A98C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F71EF01-9F44-46C4-84E2-E053AF10D1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F71EF01-9F44-46C4-84E2-E053AF10D1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F71EF01-9F44-46C4-84E2-E053AF10D1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F71EF01-9F44-46C4-84E2-E053AF10D1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F71EF01-9F44-46C4-84E2-E053AF10D1B1} = {ABFF2F3F-1A92-423B-82E6-095B8335F872}
+	EndGlobalSection
+EndGlobal
